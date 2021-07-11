@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+}
+
+body{
+    background-color: #0E0C13;
+    font-family: arial, helvetica, sans-serif;
+    color: #242424;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: white;
+}
+
+.head_table {
+    margin: auto;
+    width: 45%;
+    text-align: center;
+    color: white;
+}
+
+main {
+    flex: 1 0 auto;
+}
