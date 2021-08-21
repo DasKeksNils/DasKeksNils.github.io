@@ -47,7 +47,7 @@ main {
 
 .go_button_div {
     position: absolute;
-    right: 575px;
+    left: 1265px;
     top: 245px;
 }
 
@@ -72,7 +72,7 @@ main {
     height: 300px;
     position: absolute;
     top: 450px;
-    right: 300px;
+    left: 1320px;
 }
 
 .gans {
@@ -86,7 +86,7 @@ main {
     height: 300px;
     position: absolute;
     top: 1450px;
-    right: 250px;
+    left: 1300px;
 }
 
 .monkey {
@@ -100,5 +100,5 @@ main {
     height: 250px;
     position: absolute;
     top: 1175px;
-    right: 600px;
+    left: 1220px;
 }
