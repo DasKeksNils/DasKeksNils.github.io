@@ -8,7 +8,7 @@
         <script>
             function play_audio(file) {
                 var audio = new Audio("../sounds/"+ file + ".mp3");
-                audio.volume = 0.35;
+                audio.volume = 0.50;
                 audio.play();
             }
             function goto(tier) {
@@ -27,17 +27,21 @@
                 <b class="go_button" onclick="goto('#chicken')">Chicken</b><br><br>
                 <b class="go_button" onclick="goto('#doggo')">Doggo</b><br><br>
                 <b class="go_button" onclick="goto('#gans')">Gans</b><br><br>
-                <b class="go_button" onclick="goto('#elephant')">Elephant</b><br><br>
+                <b class="go_button" onclick="goto('#elephant')">Elephant</b><br><br> 
                 <b class="go_button" onclick="goto('#monkey')">Monkey</b><br><br>
+                <!--<b class="go_button" onclick="goto('#pferd')">Pferd</b><br><br>--> 
+                <!--<b class="go_button" onclick="goto('#eule')">Eule</b>-->
             </div>
             
             <div>
                 <b class="tier_button" onclick="play_audio('chicken')"><img id="#chicken" class="chicken" src="../imgs/Tiere/chicken.png" alt=""></b>
-                <b class="tier_button" onclick="play_audio('doggo')"><img id="#doggo" class="doggo" src="../imgs/Tiere/doggo.png" alt=""></b>
-                <b class="tier_button" onclick="play_audio('gans')"><img id= "#gans" class="gans" src="../imgs/Tiere/gans.png" alt=""></b>
+                <b class="tier_button" onclick="play_audio('doggo2')"><img id="#doggo" class="doggo" src="../imgs/Tiere/doggo.png" alt=""></b>
+                <b class="tier_button" onclick="play_audio('gans')"><img id= "#gans" class="gans" src="../imgs/Tiere/gans.png" alt=""></b> 
                 <b class="tier_button" onclick="play_audio('elephant')"><img id="#elephant" class="elephant" src="../imgs/Tiere/elephant.png" alt=""></b>
                 <b class="tier_button" onclick="play_audio('monkey')"><img id="#monkey" class="monkey" src="../imgs/Tiere/monkey.png" alt=""></b>
                 <b class="tier_button" onclick="play_audio('me')"><img class="me" src="../imgs/Tiere/me.png" alt=""></b>
+                <b class="tier_button" onclick="play_audio('pferd')"></b>
+                <b class="tier_button" onclick="play_audio('eule')"></b>
             </div>
         </main>
     </body>
