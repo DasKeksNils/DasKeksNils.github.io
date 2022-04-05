@@ -10,7 +10,7 @@ body{
     color: #242424;
     display: flex;
     flex-direction: column;
-    height: 2275px;
+    height: 3000px;
 }
 
 header {
@@ -49,7 +49,13 @@ main {
 .go_button_div {
     position: absolute;
     left: 1265px;
-    top: 245px;
+    top: 175px;
+}
+
+.go_button_div2 {
+    position: absolute;
+    left: 1265px;
+    top: 320px;
 }
 
 .tier_button {
@@ -102,4 +108,11 @@ main {
     position: absolute;
     top: 1175px;
     left: 1220px;
+}
+
+.einhorn {
+    height: 300px;
+    position: absolute;
+    left: 1350px;
+    top: 2300px;
 }
