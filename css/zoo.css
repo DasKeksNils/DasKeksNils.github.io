@@ -116,3 +116,17 @@ main {
     left: 1350px;
     top: 2300px;
 }
+
+.eule {
+    height: 100px;
+    position: absolute;
+    top: 1000px;
+    left: 925px;
+}
+
+.frosch {
+    height: 50px;
+    position: absolute;
+    top: 2375px;
+    left: 620px;
+}
