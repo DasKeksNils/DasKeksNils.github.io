@@ -16,13 +16,6 @@ header {
     color: white;
 }
 
-.head_table {
-    margin: auto;
-    width: 45%;
-    text-align: center;
-    color: white;
-}
-
 main {
     flex: 1 0 auto;
 }
@@ -32,6 +25,14 @@ main {
     width: 100px;
     background-color: grey;
     font-size: 15px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.resetbutton:hover {
+    background-color: red;
+    transition-duration: 0.5s;
+
 }
 
 button {
@@ -42,14 +43,23 @@ button {
     background-color: withe;
     border-radius: 10px;
     font-size: 20px;
+    cursor: pointer;
 }
+
 
 .pressed {
     background-color: #00ff44;
+    transition-duration: 0.5;
 }
+
 
 .notpressed {
     background-color: white;
+}
+
+.notpressed:hover {
+    background-color: lightgreen;
+    transition-duration: 0.4s;
 }
 
 .bingo_table {
