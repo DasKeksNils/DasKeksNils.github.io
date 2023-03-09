@@ -7,6 +7,8 @@ body{
     font-family: arial, helvetica, sans-serif;
     color: #242424;
     flex-direction: column;
+    position: relative;
+    align-items: center;
 }
 
 header {
@@ -38,12 +40,12 @@ main {
 button {
     height: 200px;
     width: 200px;
-    flex-direction: left;
     color: black;
     background-color: withe;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 20px;
     cursor: pointer;
+    border: none;
 }
 
 
@@ -81,4 +83,8 @@ button {
 .socials_l:any-link {
     color: #00ddff;
     text-decoration: none;
+}
+
+.banner {
+    width: 817px;
 }

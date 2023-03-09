@@ -19,15 +19,15 @@ const quotes = [
     "Schleichwerbung oder unnötiges Product Placement",
     "schlechter Witz",
     "Übertriebene Reaktion der Girls (Freuen, etc)",
-    "es wird extrem auf Arsch gefilmt",
-    "Girls kennen selber die Namen untereinander nicht",
+    "es wird extrem auf Arsch/Boobs gefilmt",
     "Komplimente über Boobs/Ass",
     "Models lästern übereinander",
     'jemand sagt "sexy"',
     "jemand gibt sinnlosen Ratschlag",
     "jemand versteht kein Englisch",
     "jemand beschwert sich über das Outfit",
-    "Heidi erzählt Lügen/ möchte sich Rausreden"
+    "Heidi erzählt Lügen/ möchte sich Rausreden",
+    'jemand sagt "crazy 😜✌"'
 
 ]
 
