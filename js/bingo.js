@@ -4,16 +4,12 @@ const quotes = [
     'jemand sagt "Personality"',
     "Es muss zensiert werden",
     "Heidi hat kein Foto für jemanden",
-    "Emilia sagt etwas über ihre größe",
-    "Katherine sagt etwas über Gott/ihren Glauben",
     'Heidi sagt "nur eine kann GNTM werden"',
     'Heidi sagt "meiene Mädchen/Models"',
-    'jemand sagt "schöne Beine"',
     "jemand hat Angst vorm Shooting/Walk",
     "jemand schleimt sich bei Heidi ein",
     "jemand weint",
     "jemand sagt etwas mit Selbstbewusstsein",
-    "Traurige Vergangenheit wird gezeigt",
     "jemand fällt oder knickt um",
     "etwas wird unnötig auf Englisch gesagt",
     "Schleichwerbung oder unnötiges Product Placement",
@@ -26,8 +22,7 @@ const quotes = [
     "jemand gibt sinnlosen Ratschlag",
     "jemand versteht kein Englisch",
     "jemand beschwert sich über das Outfit",
-    "Heidi erzählt Lügen/ möchte sich Rausreden",
-    'jemand sagt "crazy 😜✌"'
+    'jemand sagt "crazy 🤪✌"'
 
 ]
 
